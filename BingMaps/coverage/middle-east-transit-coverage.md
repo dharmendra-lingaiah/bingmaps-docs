@@ -32,7 +32,7 @@ Bing Maps APIs provide transit information for the following transit agencies in
 ||Nazareth|Nateev Express|[http://www.nateevexpress.com/](http://www.nateevexpress.com/)|  
 ||Nazareth|Nazareth Transport & Tourism|[http://www.ntt-buses.com/](http://www.ntt-buses.com/)|  
 ||Nazareth|Nazareth United|[http://www.nazareth-unbs.com/](http://www.nazareth-unbs.com/)|  
-|Nazareth|Omni Express|[http://omniexp.co.il/](http://omniexp.co.il/)|  
+||Nazareth|Omni Express|[http://omniexp.co.il/](http://omniexp.co.il/)|  
 ||Ramla|SuperBus|[http://www.superbus.co.il/](http://www.superbus.co.il/)|  
 ||Samaria|Afikim Public Transport|[http://www.afikim-t.co.il/](http://www.afikim-t.co.il/)|  
 ||Tel Aviv|Dan / Metronit|[http://www.dan.co.il](http://www.dan.co.il)|  
