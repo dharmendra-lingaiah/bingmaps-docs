@@ -27,7 +27,7 @@ To use the [Bing Maps APIs](../rest-services/index.md), you must have a Bing Map
   
 2.  Select **My keys** under **My Account**.  
   
-3.  Select the ption to create a new key.  
+3.  Select the Option to create a new key.  
   
 4.  Provide the following information to create a key:  
   
